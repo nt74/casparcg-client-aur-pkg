@@ -1,4 +1,5 @@
 # Maintainer: Nikos Toutountzoglou <nikos.toutou@protonmail.com>
+# Original AUR package: https://aur.archlinux.org/packages/casparcg-client-bin
 
 pkgname=casparcg-client
 pkgver=2.0.9
