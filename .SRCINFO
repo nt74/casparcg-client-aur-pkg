@@ -1,0 +1,14 @@
+pkgbase = casparcg-client
+	pkgdesc = A client software used to control the CasparCG Server software
+	pkgver = 2.0.9
+	pkgrel = 1
+	url = http://www.casparcg.com/
+	arch = x86_64
+	license = GPL
+	depends = vlc
+	provides = casparcg-client
+	conflicts = casparcg-client
+	source = https://casparcg.com/builds/CasparCG%20Client/next/CasparCG%20Client%20cb3ad0d7f3cd20f950f5976ccffca5e68b9f45ba.tar.gz
+	sha256sums = 12107cbc9553ae6d0f6d080398954ebcc4cc0e28c7cbf5c3f204ddefa6aabe91
+
+pkgname = casparcg-client
